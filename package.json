@@ -11,5 +11,20 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laolu-dev/crud-with-express-mongodb.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/laolu-dev/crud-with-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/laolu-dev/crud-with-express-mongodb#readme"
 }
